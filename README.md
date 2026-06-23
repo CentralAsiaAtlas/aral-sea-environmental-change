@@ -1,4 +1,4 @@
-# Monitoring Post-Dam Coastline Change in the North Aral Sea Using GIS and Remote Sensing
+# Assessment of Coastline Recovery Following the Kok-Aral Dam Using Remote Sensing
 
 ## Overview
 
