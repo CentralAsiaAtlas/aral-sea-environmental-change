@@ -2,7 +2,8 @@
 
 ## Overview
 
-This project uses GIS and remote sensing techniques to examine coastline changes in the North Aral Sea following construction of the Kok-Aral Dam in Kazakhstan.
+Can satellite imagery be used to evaluate the environmental effectiveness of large-scale water restoration projects?
+This project applies GIS and remote sensing techniques to examine coastline changes in the North Aral Sea following construction of the Kok-Aral Dam in Kazakhstan.
 
 The Kok-Aral Dam, completed in 2005, was designed to increase water retention within the North Aral Sea and mitigate some of the environmental consequences associated with decades of water diversion from the Syr Darya River. Using satellite imagery acquired during the post-dam period (approximately 2006–2019/2020), this analysis evaluates whether measurable changes in coastline position occurred within the study area.
 
