@@ -1,4 +1,4 @@
-# Assessment of Coastline Recovery Following the Kok-Aral Dam Construction, Using Remote Sensing
+# Assessment of Coastline Recovery following the Kok-Aral Dam Construction, Using Remote Sensing
 
 ## Overview
 
